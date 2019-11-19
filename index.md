@@ -3,6 +3,6 @@ Seequent is a software services company that serves the geoscientific community 
 
 This documentation describes Geosoft GX Developer, which can be used to extend the capabilities of Seequent's Geosoft platforms, create stand-alone programs that read and/or write to Geosoft supported file formats.  The Geosoft API can be accessed from the Geosoft GX Language, 64-bit Python (3.5 minimum) or any CLI language (e.g. C#, VB, C++/CLI, F#).
 
-More information about Geosoft is available at www.geosoft.com.
+More information about Geosoft is available at https://www.geosoft.com.
 
-More information about Seequent is available at www.seequent.com.
+More information about Seequent is available at https://www.seequent.com.
